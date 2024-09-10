@@ -5,6 +5,11 @@ We will be using two APIs:
 An API that gets the website visitor's IP address and turns it into data (ipStack).
 An API that generates a graph based on input (Quickchart).
 
+BEFORE RUNNING THIS CODE
+1. You need to set up 1 API key for ipStack
+2. This is my secret code use this if you dont want to sign up
+40f143f599038b7f625d9085db152e7e
+
 TO USE THIS CODE
 1. Run ALL the code. There should be 4! Starting from the top.
 2. It will ask you for a set of IP Addresses as input. The input MUST be separated by commas.
@@ -12,7 +17,5 @@ EX. 134.201.250.155, 72.229.28.185, 110.174.165.78, 103.177.115.255,13.33.152.0,
 3. It will generate a pie chart in the files section as an image.
 4. You can find this graph in content/country_chart.png
 
-BEFORE RUNNING THIS CODE
-1. You need to set up 1 API key for ipStack
 
 
