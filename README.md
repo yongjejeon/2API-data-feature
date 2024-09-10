@@ -10,6 +10,7 @@ TO USE THIS CODE
 2. It will ask you for a set of IP Addresses as input. The input MUST be separated by commas.
 EX. 134.201.250.155, 72.229.28.185, 110.174.165.78, 103.177.115.255,13.33.152.0, 8.8.8.8, 101.235.255.255
 3. It will generate a pie chart in the files section as an image.
+4. You can find this graph in content/country_chart.png
 
 BEFORE RUNNING THIS CODE
 1. You need to set up 1 API key for ipStack
