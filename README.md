@@ -7,9 +7,7 @@ An API that generates a graph based on input (Quickchart).
 
 BEFORE RUNNING THIS CODE
 1. You need to set up 1 API key for ipStack
-2. This is my secret code use this if you dont want to sign up
-40f143f599038b7f625d9085db152e7e
-3. Name the secret code as IPAddressKey
+2. Name the secret code as IPAddressKey
 
 TO USE THIS CODE
 1. Run ALL the code. There should be 4! Starting from the top.
